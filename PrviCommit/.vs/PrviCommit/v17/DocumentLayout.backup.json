@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\PrviCommit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FDB6D4-81CE-4DC2-BE30-5B4C24D1B302}|PrviCommit.vcxproj|C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\PrviCommit\\MojPrviProgram.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8FDB6D4-81CE-4DC2-BE30-5B4C24D1B302}|PrviCommit.vcxproj|solutionrelative:MojPrviProgram.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MojPrviProgram.c",
+              "DocumentMoniker": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\PrviCommit\\MojPrviProgram.c",
+              "RelativeDocumentMoniker": "MojPrviProgram.c",
+              "ToolTip": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\PrviCommit\\MojPrviProgram.c",
+              "RelativeToolTip": "MojPrviProgram.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-07T15:26:29.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
