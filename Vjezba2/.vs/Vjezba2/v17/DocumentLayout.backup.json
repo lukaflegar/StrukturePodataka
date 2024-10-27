@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\Vjezba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3536F5DE-9B03-4A22-A127-FBD9A86D3475}|Vjezba2.vcxproj|C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\Vjezba2\\zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3536F5DE-9B03-4A22-A127-FBD9A86D3475}|Vjezba2.vcxproj|solutionrelative:zad2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad2.c",
+              "DocumentMoniker": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\Vjezba2\\zad2.c",
+              "RelativeDocumentMoniker": "zad2.c",
+              "ToolTip": "C:\\Users\\LukaFlegar\\Desktop\\StrukturePodataka\\Vjezba2\\zad2.c",
+              "RelativeToolTip": "zad2.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-14T10:44:01.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
