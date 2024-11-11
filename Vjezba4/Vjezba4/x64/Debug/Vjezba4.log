@@ -1,0 +1,4 @@
+﻿  zad4.c
+C:\Users\LukaFlegar\Desktop\StrukturePodataka\Vjezba4\zad4.c(117,9): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\LukaFlegar\Desktop\StrukturePodataka\Vjezba4\zad4.c(160,9): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  Vjezba4.vcxproj -> C:\Users\LukaFlegar\Desktop\StrukturePodataka\Vjezba4\x64\Debug\Vjezba4.exe
